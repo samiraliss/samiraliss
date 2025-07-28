@@ -17,32 +17,49 @@ Here are some ideas to get you started:
 
 
 
-<div style="border: 2px solid #e91e63; padding: 20px; border-radius: 10px; max-width: 600px; font-family: Arial, sans-serif; background-color: #fff5fb;">
-  <h1 style="color: #e91e63;">👩‍💻 Samira Lis Souza Silva</h1>
-  <h3 style="color: #333;">Desenvolvedora Web Iniciante</h3>
-  <p style="color: #555;">
-    Estudante de Análise e Desenvolvimento de Sistemas no IFPA – Campus Itaituba-PA.<br>
-    Apaixonada por tecnologia, design e inovação.<br>
-    Buscando oportunidades de trabalho remoto para crescer profissionalmente.
-  </p>
 
-  <h4 style="color: #e91e63;">💼 Habilidades:</h4>
-  <ul style="color: #555;">
-    <li>HTML, CSS, JavaScript (básico)</li>
-    <li>PHP com CodeIgniter 4</li>
-    <li>MySQL, Bootstrap</li>
-    <li>Git, GitHub, VS Code</li>
-  </ul>
+ <h1 align="center">👋 Olá, eu sou a Samira Lis Souza Silva</h1>
 
-  <h4 style="color: #e91e63;">📞 Contato:</h4>
-  <p style="color: #555;">
-    📧 Email: <a href="mailto:souzasilvasamiralis2@gmail.com">souzasilvasamiralis2@gmail.com</a><br>
-    📱 WhatsApp: <a href="https://wa.me/5593992169856" target="_blank">+55 93 99216-9856</a>
-  </p>
+<p align="center">
+  Desenvolvedora Web | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por Tecnologia 🚀
+</p>
 
-  <h4 style="color: #e91e63;">🌍 Idiomas:</h4>
-  <ul style="color: #555;">
-    <li>Português: Nativo</li>
-    <li>Inglês: Noções básicas de leitura e escrita</li>
-  </ul>
-</div>
+---
+
+### 💻 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – IFPA (Campus Itaituba-PA)
+- 🌐 Interesse em desenvolvimento **Web**, **CodeIgniter 4**, **segurança digital** e **recuperação de contas**
+- 📈 Buscando oportunidades de **trabalho remoto** e **freelancer**
+- 📚 Sempre aprendendo algo novo para evoluir como desenvolvedora e como pessoa
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Contato
+
+- 📧 E-mail: **seuemail@email.com**
+- 🌐 Portfólio: [seusite.com](https://seusite.com)
+- 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linke)
